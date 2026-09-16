@@ -19,7 +19,7 @@ requirements:
     - python
     - pip
   host:
-    - python {{ python_min }}
+    - python
     - pip
     - setuptools
     - numpy <2.4.0
